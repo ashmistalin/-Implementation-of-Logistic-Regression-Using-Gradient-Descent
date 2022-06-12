@@ -67,7 +67,8 @@ for i,j,in enumerate(np.unique(Y_Set)):
 ```
 
 ## Output:
-
+![GITHUB LOGO](ex4(1).png)
+![GITHUB LOGO](ex4(2).png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
